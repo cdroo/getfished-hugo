@@ -1,2 +1,5 @@
 https://getfished.net/*
    X-Robots-Tag: noindex
+
+User-agent: *
+Disallow: /
